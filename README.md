@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About the Developer
 
-Hi! I'm **Ammar Suratwala**, a passionate full-stack developer who loves building intelligent, real-world applications. This project is a fully customized AI recruitment platform that I built to explore the intersection of **AI, voice technology, and modern web development**.
+Hi! I'm **Ammar Suratwala**, a passionate Founder/AI Engineer who loves building intelligent, real-world applications. This project is a fully customized AI recruitment platform that I built to explore the intersection of **AI, voice technology, and modern web development**.
 
 ---
 
