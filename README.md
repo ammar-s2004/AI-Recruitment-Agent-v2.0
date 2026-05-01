@@ -86,10 +86,10 @@ The AI interviewer conducts real conversations using **voice AI (Vapi)**, evalua
 
 ```bash
 # Clone the repository
-git clone https://github.com/ammar-s2004/AI-Recruitment-AGENT.git
+git clone https://github.com/ammar-s2004/AI-Recruitment-Agent-v2.0.git
 
 # Navigate into the project
-cd AI-Recruitment-AGENT
+cd AI-Recruitment-AGENT-v2.0
 
 # Install dependencies
 npm install
