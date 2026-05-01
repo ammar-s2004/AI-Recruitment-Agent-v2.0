@@ -2,7 +2,7 @@
 
 # 🤖 AI Recruitment Agent
 
-### An intelligent, end-to-end AI-powered recruitment platform that automates interviews, evaluates candidates, and streamlines hiring — built by **Ammar Suratwala**
+### An intelligent, end-to-end AI-powered recruitment platform that automates interviews, evaluates candidates, and streamlines hiring built by **Ammar Suratwala**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com/)
